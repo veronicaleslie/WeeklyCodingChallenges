@@ -1,3 +1,4 @@
+package WeeklyCodingChallenges;
 import java.util.Arrays;
 
 //Given an array of integers, return the largest gap between the sorted elements of the array.
